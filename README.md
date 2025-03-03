@@ -48,7 +48,7 @@ SQL Server LocalDB
 ## Steps
 
 1. Clone the repository:
-git clone https://github.com/yourusername/ProNatur-Biomarkt.git
+git clone https://github.com/JanOleKracht/-Biomarkt-Management-System.git
 
 2. Open the solution in Visual Studio.
 
