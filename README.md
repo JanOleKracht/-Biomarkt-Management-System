@@ -1,5 +1,5 @@
 
-# ProNatur Biomarkt Management System
+# ProNatur Biomarkt Management System (Beginners Project)
 ## Overview
 
 ProNatur Biomarkt GmbH is a product management system designed to help manage inventory, store product details, and facilitate CRUD (Create, Read, Update, Delete) operations on products.
