@@ -2,7 +2,7 @@
 # ProNatur Biomarkt Management System (Beginners Project)
 ## Overview
 
-ProNatur Biomarkt GmbH is a product management system designed to help manage inventory, store product details, and facilitate CRUD (Create, Read, Update, Delete) operations on products.
+ProNatur Biomarkt is a product management system designed to help manage inventory, store product details, and facilitate CRUD (Create, Read, Update, Delete) operations on products.
 
 This project is on of my first learning projects where I practice **Object-Oriented Programming (OOP)** in C# and integrate an **SQL database**. My goal is to understand how to structure a C# application, interact with a database, and handle common challenges in software development. 
 
